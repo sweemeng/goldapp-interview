@@ -1,0 +1,6 @@
+- install with `pip install requirements.txt`
+- unittest can be run with `python manage.py test`
+- run test server by `python manage.py runserver`
+- to register go to `localhost:5000/register`
+- to use oauth register app with `http://localhost:5000/o/applications/` 
+- api endpoint is as indicated on interview, except for login. 
